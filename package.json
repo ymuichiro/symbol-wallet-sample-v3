@@ -9,10 +9,26 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@unimodules/core": "^7.1.2",
+    "@unimodules/react-native-adapter": "^6.3.9",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
     "expo": "~48.0.18",
+    "expo-random": "^10.0.0",
     "expo-status-bar": "~1.4.4",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-expo-bitcoinjs-lib": "^2.4.4",
+    "react-native-expo-crypto": "^2.1.4",
+    "react-native-level-fs": "^3.0.1",
+    "readable-stream": "^4.4.2",
+    "symbol-crypto-wasm-web": "^0.1.1",
+    "symbol-sdk": "^3.0.7",
+    "url": "^0.11.1",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
